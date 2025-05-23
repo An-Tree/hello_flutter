@@ -7,7 +7,9 @@
 6. 异步和异常
 
 
->git init
+``git
+
+git init
 
 git add.    # staging area
 
@@ -18,3 +20,5 @@ git push    # remote repository
 git config --global http.proxy http://127.0.0.1:10538
 
 git config --global https.proxy http://127.0.0.1:10538
+
+```
