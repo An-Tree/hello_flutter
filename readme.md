@@ -7,7 +7,7 @@
 6. 异步和异常
 
 
-``git
+```git
 
 git init
 
